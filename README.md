@@ -33,6 +33,10 @@ The project has been created using a extension of visual studio code: [Live Serv
 - Using a helper CSS class with transform to build animation
 - Using helper classes to set top/bottom and left/right spacing for sections
 - Responsive design vs intrinsic design approaches
+- Using srcset and sizes in img html tag
+- Create a hero section with a design
+- Uses clamp in css to increase or decrease font size with responsive
+- Positioned images
 
 ## Stay in touch
 

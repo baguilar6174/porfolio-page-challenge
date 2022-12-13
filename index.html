@@ -53,19 +53,44 @@
     </div>
   </header>
   <main id="main">
-    <div class="wrapper">
-      <h1>
-        Nice to meet you! I'm Adam Keyes.
-      </h1>
-    </div>
+    <section class="hero">
+      <div class="wrapper hero__wrapper">
+        <picture>
+          <source media="(min-width: 62.5em)" srcset="/assets/images/image-profile-desktop.webp">
+          <source media="(min-width: 37.5em)" srcset="/assets/images/image-profile-tablet.webp">
+          <img
+            class="hero__image"
+            src="/assets/images/image-profile-mobile.webp"
+            alt="Adam Keyes"
+            height="383"
+          >
+        </picture>
+        <img
+          class="hero__rings"
+          src="/assets/images/pattern-rings.svg"
+          width="530"
+          height="129"
+          alt=""
+        />
+        <img
+          class="hero__circle"
+          src="/assets/images/pattern-circle.svg"
+          width="129"
+          height="129"
+          alt=""
+        />
+        <div class="hero__text">
+          <h1 class="hero__headline">Nice to <br/> meet you! I'm <span>Adam Keyes</span>.</h1>
+          <p class="hero__description">Based in the UK, I'm a front-end developer passionate about building accesible web apps that users love</p>
+          <a href="" class="hero__contact underline">Contact me</a>
+        </div>
+      </div>
+    </section>
   </main>
+  2:43
   <footer class="footer">
 
   </footer>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum ut culpa ex blanditiis, earum est, doloremque
-  mollitia suscipit assumenda nobis quae atque iste molestiae exercitationem facilis. Aliquam, voluptatum! Sequi
-  distinctio similique odio molestias consequuntur possimus qui beatae modi voluptas error, architecto quisquam
-  delectus, asperiores eius reiciendis sed quod soluta voluptatem?
 </body>
 
 </html>
