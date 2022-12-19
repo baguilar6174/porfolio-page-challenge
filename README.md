@@ -64,6 +64,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
     <td>Hero Section</td>
   </tr>
   <tr>
+    <td align="center" valign="center"><img src="./media/hero_desktop.png" width="100%"></td>
     <td align="center" valign="center"><img src="./media/hero_tablet.png" width="100%"></td>
     <td align="center" valign="center"><img src="./media/hero_mobile.png" width="100%"></td>
   </tr>
