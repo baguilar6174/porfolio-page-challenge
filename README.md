@@ -37,6 +37,8 @@ The project has been created using a extension of visual studio code: [Live Serv
 - Create a hero section with a design
 - Uses clamp in css to increase or decrease font size with responsive
 - Positioned images
+- Mobile first design
+- Using flexbox and grid
 
 ## Stay in touch
 
@@ -69,5 +71,18 @@ Pull requests are welcome. For major changes, please open an issue first to disc
     <td align="center" valign="center"><img src="./media/hero_desktop.png" width="95%"></td>
     <td align="center" valign="center"><img src="./media/hero_tablet.png" width="100%"></td>
     <td align="center" valign="center"><img src="./media/hero_mobile.png" width="95%"></td>
+  </tr>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" style="text-align:center">Skills Section</th>
+    </tr>
+  </thead>
+  <tr>
+    <td align="center" valign="center"><img src="./media/skills_desktop.png" width="95%"></td>
+    <td align="center" valign="center"><img src="./media/skills_tablet.png" width="100%"></td>
+    <td align="center" valign="center"><img src="./media/skills_mobile.png" width="95%"></td>
   </tr>
 </table>

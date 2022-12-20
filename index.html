@@ -16,8 +16,10 @@
 
 <body>
   <header class="header">
+    <h2 class="visually-hidden">Header</h2>
     <div class="wrapper">
       <nav class="header__nav">
+        <h2 class="visually-hidden">Navigation</h2>
         <a href="/" class="header__home">
           adamkeyes
           <span class="visually-hidden">(to home page)</span>
@@ -54,7 +56,7 @@
   </header>
   <main id="main">
     <section class="hero">
-      <div class="wrapper hero__wrapper">
+      <div class="wrapper hero__wrapper bottom-border">
         <div class="hero__content">
           <picture>
             <source media="(min-width: 62.5em)" srcset="/assets/images/image-profile-desktop.webp">
@@ -87,6 +89,42 @@
           </div>
         </div>
       </div>
+    </section>
+    <section class="skills">
+      <div class="wrapper skills__wrapper bottom-border">
+        <h2 class="visually-hidden">Skills</h2>
+        <div class="skills__item">
+          <h3 class="skills__title">HTML</h3>
+          <p class="skills__description">4 Years Experience</p>
+        </div>
+        <div class="skills__item">
+          <h3 class="skills__title">CSS</h3>
+          <p class="skills__description">4 Years Experience</p>
+        </div>
+        <div class="skills__item">
+          <h3 class="skills__title">Javascript</h3>
+          <p class="skills__description">4 Years Experience</p>
+        </div>
+        <div class="skills__item">
+          <h3 class="skills__title">Accesibility</h3>
+          <p class="skills__description">4 Years Experience</p>
+        </div>
+        <div class="skills__item">
+          <h3 class="skills__title">React</h3>
+          <p class="skills__description">3 Years Experience</p>
+        </div>
+        <div class="skills__item">
+          <h3 class="skills__title">Sass</h3>
+          <p class="skills__description">3 Years Experience</p>
+        </div>
+      </div>
+      <img
+        class="skills__rings"
+        src="/assets/images/pattern-rings.svg"
+        width="530"
+        height="129"
+        alt=""
+      />
     </section>
   </main>
   <footer class="footer">
