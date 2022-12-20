@@ -60,12 +60,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 </table>
 
 <table>
+  <thead>
+    <tr>
+      <th colspan="3" style="text-align:center">Hero Section</th>
+    </tr>
+  </thead>
   <tr>
-    <td>Hero Section</td>
-  </tr>
-  <tr>
-    <td align="center" valign="center"><img src="./media/hero_desktop.png" width="100%"></td>
+    <td align="center" valign="center"><img src="./media/hero_desktop.png" width="95%"></td>
     <td align="center" valign="center"><img src="./media/hero_tablet.png" width="100%"></td>
-    <td align="center" valign="center"><img src="./media/hero_mobile.png" width="100%"></td>
+    <td align="center" valign="center"><img src="./media/hero_mobile.png" width="95%"></td>
   </tr>
 </table>
