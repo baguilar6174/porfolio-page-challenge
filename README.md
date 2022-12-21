@@ -39,6 +39,7 @@ The project has been created using a extension of visual studio code: [Live Serv
 - Positioned images
 - Mobile first design
 - Using flexbox and grid
+- Accesibility
 
 ## Stay in touch
 
