@@ -4,7 +4,7 @@ This is a solution to the [Single-page developer portfolio](https://www.frontend
 
 ## Description
 
-This project presents the construction of a landing page built from scratch using HTML CSS and JS, the site is fully responsive and contains animations that improve the user experience. Your users should be able to:
+This project presents the construction of a landing page built from scratch using only HTML CSS, the site is fully responsive and contains animations that improve the user experience. Your users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -26,7 +26,6 @@ The project has been created using a extension of visual studio code: [Live Serv
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Js
 
 ## What I learned
 
