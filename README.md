@@ -40,6 +40,8 @@ The project has been created using a extension of visual studio code: [Live Serv
 - Mobile first design
 - Using flexbox and grid
 - Accesibility
+- Accesibility in forms
+- Forms validations using css
 
 ## Stay in touch
 
@@ -98,5 +100,18 @@ Pull requests are welcome. For major changes, please open an issue first to disc
     <td align="center" valign="center"><img src="./media/projects_desktop.png" width="100%"></td>
     <td align="center" valign="center"><img src="./media/projects_tablet.png" width="96%"></td>
     <td align="center" valign="center"><img src="./media/projects_mobile.png" width="100%"></td>
+  </tr>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" style="text-align:center">Contact Section</th>
+    </tr>
+  </thead>
+  <tr>
+    <td align="center" valign="center"><img src="./media/contact_desktop.png" width="100%"></td>
+    <td align="center" valign="center"><img src="./media/contact_tablet.png" width="100%"></td>
+    <td align="center" valign="center"><img src="./media/contact_mobile.png" width="100%"></td>
   </tr>
 </table>
